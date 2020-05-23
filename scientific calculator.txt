@@ -3,3 +3,4 @@
 welocome to my scientific calculator
 
 basic calculator functions
+scientific functions
